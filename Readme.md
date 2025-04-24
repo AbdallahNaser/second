@@ -28,4 +28,4 @@ git push origin --delete tag v1.7
 
 
 
-> Replace the URL `https://postimg.cc/n9vL1w6F` with your own uploaded image link from [https://postimages.org](https://postimages.org). You can get this after uploading an image by choosing the **"Direct Link"** option.
+> Replace the URL `https://i.postimg.cc/Bbz14rpK/ssh.png` with your own uploaded image link from [https://postimages.org](https://postimages.org). You can get this after uploading an image by choosing the **"Direct Link"** option.
